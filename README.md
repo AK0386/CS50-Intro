@@ -43,7 +43,19 @@ Suppose you work at a store and a customer gives you $1.00 (100 cents) for candy
 
 ### Credit
 [Link]https://cs50.harvard.edu/x/2024/psets/1/credit/
-### Context
+#### Context
 In a file called credit.c in a folder called credit, implement a program in C that checks the validity of a given credit card number using Luhn’s Algorithm
+
+
+## Problem Set-1
+### Scrabble
+[Link]https://cs50.harvard.edu/x/2024/psets/2/scrabble/
+#### Context
+In a file called scrabble.c in a folder called scrabble, implement a program in C that determines the winner of a short Scrabble-like game. Your program should prompt for input twice: once for “Player 1” to input their word and once for “Player 2” to input their word. Then, depending on which player scores the most points, your program should either print “Player 1 wins!”, “Player 2 wins!”, or “Tie!” (in the event the two players score equal points).
+
+### Readability
+[Link]https://cs50.harvard.edu/x/2024/psets/2/readability/
+#### Context
+In a file called readability.c in a folder called readability, you’ll implement a program that calculates the approximate grade level needed to comprehend some text. Your program should print as output “Grade X” where “X” is the grade level computed, rounded to the nearest integer. If the grade level is 16 or higher (equivalent to or greater than a senior undergraduate reading level), your program should output “Grade 16+” instead of giving the exact index number. If the grade level is less than 1, your program should output “Before Grade 1”.
 
 
