@@ -63,3 +63,8 @@ In a file called readability.c in a folder called readability, you’ll implemen
 #### Context
 In a file called caesar.c in a folder called caesar, write a program that enables you to encrypt messages using Caesar’s cipher. At the time the user executes the program, they should decide, by providing a command-line argument, what the key should be in the secret message they’ll provide at runtime. We shouldn’t necessarily assume that the user’s key is going to be a number; though you may assume that, if it is a number, it will be a positive integer.
 
+### Substitution
+[Link]https://cs50.harvard.edu/x/2024/psets/2/substitution/
+#### Context
+In a file called substitution.c in a folder called substitution, create a program that enables you to encrypt messages using a substitution cipher. At the time the user executes the program, they should decide, by providing a command-line argument, on what the key should be in the secret message they’ll provide at runtime.
+
